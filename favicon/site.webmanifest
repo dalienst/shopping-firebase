@@ -1,6 +1,6 @@
 {
-    "name":"The List of Shopping",
-    "short_name":"Shopping List",
+    "name":"The Owino List",
+    "short_name":"Owino List",
     "icons":
         [
             {"src":"favicon/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},
